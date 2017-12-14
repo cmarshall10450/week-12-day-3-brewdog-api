@@ -1,0 +1,14 @@
+* {
+  margin:     0;
+  padding:    0;
+  box-sizing: border-box;
+}
+
+.beer {
+  padding:          1rem 2rem;
+  margin-top:       4rem;
+  background-color: #EEE;
+  display:          flex;
+  align-items:      center;
+  flex-direction:   column;
+}
